@@ -1,0 +1,9 @@
+from .events import router as events_router
+from .bookings import router as bookings_router
+from .guests import router as guests_router
+from .inventory import router as inventory_router
+from .payments import router as payments_router
+from .dashboard import router as dashboard_router
+from .validation import router as validation_router
+from .audit import router as audit_router
+from .tbo import router as tbo_router

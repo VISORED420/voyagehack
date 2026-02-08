@@ -1,0 +1,17 @@
+{
+  "event_id": "33333333-3333-3333-3333-333333333333",
+  "inventory_id": "44444444-4444-4444-4444-444444444444",
+  "guest_name": "Test Guest",
+  "guest_email": "test@email.com",
+  "guest_phone": "+91-99999-99999",
+  "check_in_date": "2025-03-15",
+  "check_out_date": "2025-03-18",
+  "room_type": "Deluxe Lake View",
+  "rate_per_night": 18000,
+  "num_rooms": 1,
+  "num_adults": 2,
+  "num_children": 0,
+  "source": "Microsite",
+  "category": "Friend",
+  "side": "Groom"
+}
